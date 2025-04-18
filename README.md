@@ -1,0 +1,34 @@
+Power BI Store Performance Analysis
+This project analyzes the performance of stores in different areas, focusing on revenue generation and customer spending at each store. The analysis is based on transactional data, with the goal of understanding which stores are generating the most revenue and how much each customer is spending in those stores.
+
+Table of Contents
+ 
+Overview
+This Power BI project aims to analyze store performance using transactional data. By evaluating key metrics such as total revenue per store and customer spending, it provides insights into store performance by area. The analysis is intended to help businesses identify high-performing stores and understand customer spending behavior.
+
+Key insights generated include:
+
+Total Revenue by Area: Which areas generate the most revenue.
+
+Revenue per Store: How each store is performing in terms of revenue.
+
+Customer Spending at Stores: Understanding the spending patterns of individual customers.
+
+Data Description
+The project uses transactional data which contains the following key columns:
+
+Store: The name or ID of the store.
+
+Area: The geographical area or region where the store is located.
+
+Sales Amount: The total sales or revenue from each transaction.
+
+Customer ID: Unique identifier for each customer.
+
+Transaction Date: The date when the transaction took place.
+
+ 
+Technologies Used
+Power BI: For data visualization and analysis.
+DAX: For creating measures and calculated columns.
+CSV: Data format used for storing transactional data.
